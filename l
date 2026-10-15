@@ -1,4 +1,4 @@
 {
-  "LockApp": false,
-  "Link": "https://t.me/fotball_kora"
+  "LockApp": true,
+  "Link": "https://t.me/+mzcLn7C-QLU0MGFi"
 }
